@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Secret Name</string>
+    <string name="hi">HI</string>
+    <string name="wlcmtxt_1">Imagine a Word or a Name. Suppose it can be the Name of your first crush and Note the total letter of that word.</string>
+    <string name="Wlcmtxt_2">Now follow me. Hope you will enjoy</string>
+    <string name="Start">Start</string>
+    <string name="creator">Creator</string>
+    <string name="length">Enter the total letter of that name : </string>
+    <string name="Enterlength">Enter Here</string>
+    <string name="btnnext">Next</string>
+    <string name="instruction">Tap on lines from below for every letter one by one. Consider space in your name as hyphen \'-\'</string>
+    <string name="line_numbers">Line Numbers here</string>
+    <string name="alphabet_1">A\t\t\t\tB\t\t\t\tC\t\t\t\tD\t\t\t\tE</string>
+    <string name="alphabet_2">F\t\t\t\tG\t\t\t\tH\t\t\t\tI\t\t\t\tJ</string>
+    <string name="alphabet_3">K\t\t\t\tL\t\t\t\tM\t\t\t\tN\t\t\t\tO</string>
+    <string name="alphabet_4">P\t\t\t\tQ\t\t\t\tR\t\t\t\tS\t\t\t\tT</string>
+    <string name="alphabet_5">U\t\t\t\tV\t\t\t\tW\t\t\t\tX\t\t\t\tY</string>
+    <string name="alphabet_6">Z\t\t\t\t-\t\t\t\t-\t\t\t\t-\t\t\t\t-</string>
+    <string name="instruction_modified">Repeat previous process again please</string>
+    <string name="finish">Finish</string>
+    <string name="reset">Reset</string>
+    <string name="run_again">Try another one</string>
+    <string name="back">Back</string>
+    <string name="example">Suppose, I am assuming a word \"Android\". Now the length of that word is the total letter, which is 7.</string>
+    <string name="help">help</string>
+    <string name="example2">The word \'Android\' has \'A\' as first letter. so, you should tap on first line for \'A\' and then the second letter \'n\' is in line 3 so you should tap on line 3 and So on...\nLength of your word was: </string>
+    <string name="inspire">Inspiration</string>
+</resources>
